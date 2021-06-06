@@ -1,1 +1,2 @@
-Meu primeiro contato com git foi na escola de tecnologia vida nova e quero aprender muito.
+Meu primeiro contato com git
+foi na escola de tecnologia vida nova e quero aprender muito.
